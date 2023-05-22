@@ -1,0 +1,2 @@
+C:\Users\AMIR\Desktop\My project\obj\Debug\Cinemachine.Player.csproj.AssemblyReference.cache
+C:\Users\AMIR\Desktop\My project\obj\Debug\Cinemachine.Player.csproj.CoreCompileInputs.cache

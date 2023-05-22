@@ -1,0 +1,2 @@
+C:\Users\AMIR\Desktop\My project\obj\Debug\Unity.CollabProxy.Editor.csproj.AssemblyReference.cache
+C:\Users\AMIR\Desktop\My project\obj\Debug\Unity.CollabProxy.Editor.csproj.CoreCompileInputs.cache
