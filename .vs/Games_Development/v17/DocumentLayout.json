@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Game_Development\\Games_Development\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|D:\\Repos\\Game_Development\\Games_Development\\assets\\codes\\enemy_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\enemy_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|d:\\repos\\game_development\\games_development\\assets\\codes\\ui_lockat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\ui_lockat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|d:\\repos\\game_development\\games_development\\assets\\codes\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|d:\\repos\\game_development\\games_development\\assets\\codes\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|d:\\repos\\game_development\\games_development\\assets\\codes\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|d:\\repos\\game_development\\games_development\\assets\\codes\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|d:\\repos\\game_development\\games_development\\assets\\codes\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|d:\\repos\\game_development\\games_development\\assets\\codes\\soundfxpooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\soundfxpooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|D:\\Repos\\Game_Development\\Games_Development\\assets\\codes\\level_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\level_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|D:\\Repos\\Game_Development\\Games_Development\\assets\\codes\\character_states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D4EAFD-A0D2-4808-6ACF-DCB5D541DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\character_states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoundfxPooler.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\SoundfxPooler.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\SoundfxPooler.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\SoundfxPooler.cs",
+              "RelativeToolTip": "Assets\\CODES\\SoundfxPooler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:00:12.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "startmenu.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\startmenu.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\startmenu.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\startmenu.cs",
+              "RelativeToolTip": "Assets\\CODES\\startmenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:00:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "move.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\move.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\move.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\move.cs",
+              "RelativeToolTip": "Assets\\CODES\\move.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA3wAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:59:23.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FINISH.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\FINISH.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\FINISH.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\FINISH.cs",
+              "RelativeToolTip": "Assets\\CODES\\FINISH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:59:50.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "endmenu.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\endmenu.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\endmenu.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\endmenu.cs",
+              "RelativeToolTip": "Assets\\CODES\\endmenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:59:43.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ATTACK.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\ATTACK.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\ATTACK.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\ATTACK.cs",
+              "RelativeToolTip": "Assets\\CODES\\ATTACK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:59:11.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI_lockAt.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\UI_lockAt.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\UI_lockAt.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\UI_lockAt.cs",
+              "RelativeToolTip": "Assets\\CODES\\UI_lockAt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:57:54.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "enemy_control.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\enemy_control.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\enemy_control.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\enemy_control.cs",
+              "RelativeToolTip": "Assets\\CODES\\enemy_control.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:56:50.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "level_manager.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\level_manager.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\level_manager.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\level_manager.cs",
+              "RelativeToolTip": "Assets\\CODES\\level_manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:55:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CHAracter_States.cs",
+              "DocumentMoniker": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\CHAracter_States.cs",
+              "RelativeDocumentMoniker": "Assets\\CODES\\CHAracter_States.cs",
+              "ToolTip": "D:\\Repos\\Game_Development\\Games_Development\\Assets\\CODES\\CHAracter_States.cs",
+              "RelativeToolTip": "Assets\\CODES\\CHAracter_States.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:52:42.375Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

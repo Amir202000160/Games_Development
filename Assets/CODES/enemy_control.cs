@@ -9,6 +9,7 @@ public class enemy_control : MonoBehaviour
 {
     //public Transform Player;
     CHAracter_States states;
+  
     Animator anim;
     NavMeshAgent agent;
     [SerializeField] float attackRadius = 5;
